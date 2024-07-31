@@ -44,7 +44,6 @@ Got a cool idea or found a bug? Feel free to fork the project and submit a pull 
 ## 📬 Contact
 You can reach me on:
 - **Twitter**: [@SarthakTechie](https://twitter.com/SarthakTechie)
-- **Discord**: [SarthakTechie](https://discordapp.com/users/SarthakTechie)
 - **Email**: sarthaktechie@example.com
 
 ## ⚖️ License
