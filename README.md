@@ -44,7 +44,7 @@ Got a cool idea or found a bug? Feel free to fork the project and submit a pull 
 ## 📬 Contact
 You can reach me on:
 - **Twitter**: [@SarthakTechie](https://twitter.com/SarthakTechie)
-- **Email**: sarthaktechie@example.com
+- **Email**: sarthaktechie@proton.me
 
 ## ⚖️ License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
