@@ -6,7 +6,7 @@ Welcome to my **Tic-Tac-Toe** game! This is a fun, minimalist, and modern implem
 - **Responsive Design**: Looks great on all devices, whether you're on a desktop, tablet, or phone.
 - **Smooth Animations**: Subtle animations to make your gameplay experience delightful.
 - **Score Tracking**: Keeps track of wins, losses, and draws.
-- **Light/Dark Mode**: Switch between modes to match your vibe (Gruvbox inspired!).
+- **Dark Mode**: Dark mode inspired my Gruvbox inspired!.
 
 ## 📸 Screenshots
 ![Tic-Tac-Toe Game](screenshot.png)
