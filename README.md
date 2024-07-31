@@ -1,7 +1,3 @@
-Certainly! Here's a sample `README.md` file for your Tic-Tac-Toe project, written in a fun and informal tone, with some emojis to keep it lively. I've also included a section mentioning your portfolio website and ChatGPT's involvement, as requested.
-
----
-
 # 🎉 Tic-Tac-Toe 🕹️
 
 Welcome to my **Tic-Tac-Toe** game! This is a fun, minimalist, and modern implementation of the classic game we all know and love. Whether you're here to sharpen your strategy or just kill some time, this project has got you covered!
