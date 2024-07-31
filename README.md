@@ -18,8 +18,8 @@ Welcome to my **Tic-Tac-Toe** game! This is a fun, minimalist, and modern implem
 
 ## 🛠️ Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
-- **Styling**: SCSS (for modular and clean styling)
-- **Frameworks**: Vanilla JavaScript (for pure, lightweight fun)
+- **Styling**: CSS
+- **Frameworks**: Vanilla JavaScript
 
 ## 🕹️ How to Play
 1. Clone this repository to your local machine:
